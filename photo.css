@@ -96,6 +96,7 @@ body{
     margin: auto;
     transition: all 10s;
     transform-style: preserve-3d;
+    -moz-transform-style: preserve-3d;
     transform: rotateX(0deg) rotateY(-3deg); 
     animation: rot2 20s linear 0s infinite normal 
 }
@@ -368,6 +369,7 @@ body{
     margin: auto;
     transition: all 10s;
     transform-style: preserve-3d;
+    -moz-transform-style: preserve-3d;
     transform: rotateX(0deg) rotateY(-3deg); 
     animation: rot2 20s linear 0s infinite normal 
 }
